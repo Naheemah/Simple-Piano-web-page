@@ -1,0 +1,51 @@
+body {
+    width: 1100px;
+    height: 500px;
+}
+div.box {
+    padding-left: 170px;
+    width: 1000px;
+    height: 500px;
+}
+div {
+    font-size: 10px;
+    text-align: center;
+}
+.two {
+    font-weight: bold;
+    font-size: 20px;
+}
+.three {
+    font-size: 15px;
+}
+div.nav {
+    border-top: 2px solid black;
+    border-bottom: 1px solid #999;
+    margin: 20px;
+    padding: 15px;
+}
+li {
+    font-size: 20px;
+    display: inline;
+    padding-right: 40px;
+}
+li:hover {
+    color: green;
+}
+li.one:active {
+    color: red;
+}
+img {
+    text-align: center;
+    display: inline;
+    height: 200px;
+    width: 300px;
+}
+p.two {
+    font-size: 20px;
+    font-family: Times New Roman;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    word-spacing: 0.5em;
+    text-align: center;
+}
